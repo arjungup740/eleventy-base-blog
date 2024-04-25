@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+My name is Arjun! I am a data scientist/developer who has been a bit of a digital nomad since October 2022, but homebases have been Charlotte and New York City!
